@@ -1,0 +1,7 @@
+transformers==4.39.3
+keras
+tensorflow
+pandas
+seaborn
+huggingface_hub
+
