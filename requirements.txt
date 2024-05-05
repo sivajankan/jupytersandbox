@@ -1,7 +1,8 @@
 transformers==4.39.3
-keras
+tf-keras
 tensorflow
 pandas
 seaborn
 huggingface_hub
+ipywidgets
 
