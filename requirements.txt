@@ -4,5 +4,12 @@ tensorflow
 pandas
 seaborn
 huggingface_hub
-ipywidgets
-
+transformers
+datasets
+soundfile
+librosa
+gradio
+tf-keras
+torch 
+python-dotenv
+openai
