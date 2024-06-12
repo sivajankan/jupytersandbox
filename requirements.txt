@@ -4,4 +4,10 @@ tensorflow
 pandas
 seaborn
 huggingface_hub
-
+transformers
+datasets
+soundfile
+librosa
+gradio
+tf-keras
+torch 
